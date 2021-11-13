@@ -21,9 +21,7 @@ npm i > npm run seed > npm start
 
 ## Usage
 
-'''bash
-n/a
-'''
+N/A
 
 ## License
 
@@ -36,7 +34,7 @@ github.com/StephenWong-GIT
 
 ## Tests
 
-n/o
+N/A
 
 ## Questions?
 
